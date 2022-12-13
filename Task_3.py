@@ -119,7 +119,3 @@ if __name__ == '__main__':
     print("sin(y):= ", np.sin(y))
     print("Перекрестное произведение векторов:= ", norm_A_2 * norm_A_2 * np.sin(y))
     print("Умножение векторных координат A_2 и B_2:=\n", pd.DataFrame(np.multiply(A_2, B_2)))
-
-
-
-
